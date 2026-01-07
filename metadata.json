@@ -1,0 +1,7 @@
+{
+  "name": "Tesla Charge Finder",
+  "description": "Find the nearest Tesla Superchargers and Destination Chargers using real-time location and Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
